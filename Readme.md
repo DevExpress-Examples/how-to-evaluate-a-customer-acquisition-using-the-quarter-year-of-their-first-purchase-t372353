@@ -10,4 +10,4 @@ This example shows how to evaluate a customer acquisition by grouping customer
 
 ## Documentation
 
-- [Intermediate Level Aggregations](https://documentation.devexpress.com/#Dashboard/CustomDocument115870)
+- [Intermediate Level Aggregations](https://docs.devexpress.com/Dashboard/115870/common-features/advanced-analytics/aggregations/intermediate-level-aggregations)
